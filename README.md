@@ -12,10 +12,14 @@
 
 ## 分流下载
 国内通道（蓝奏云）：https://sjfsbh.lanzoui.com/b01ceq54d 密码:17oz
+
 国外通道（Google Drive）：https://drive.google.com/drive/folders/1WzV8VqlnpuXH3CMbyCBL6l_w4mONR1hZ?usp=sharing
+
 国外通道（Mega）：https://mega.nz/folder/GtxzQArZ 密钥：n4tSm3TGGu62zZeD9GEiiQ
 
 ## 要饭
 一杯奶茶/doge
+
 ![](https://a1-down.illyasviel.info/img/pay/zfb.jpg)
+
 ![](https://a1-down.illyasviel.info/img/pay/qq.png)
