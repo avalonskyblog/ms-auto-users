@@ -1,6 +1,8 @@
 ## Microsoft 365企业版自助开号程序
 源码来自[wuruiwm](https://github.com/wuruiwm/msautocreate)。我发现他这个部署有点麻烦，就闲的没事干折腾了一下。减少操作步骤。
 
+下载：https://github.com/Ansetheisia/ms-auto-users/releases/
+
 具体修改内容：
 1. 修改配置文件的数据库配置，你可以直接创建一个用户名密码数据库名均为ms365auto的数据库，直接使用，无需修改配置文件。
 2. 修改了前端部分提示。
