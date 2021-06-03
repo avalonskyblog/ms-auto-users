@@ -6,17 +6,16 @@
 2. 修改了前端部分提示。
 3. 省去了重命名config.php.example文件的麻烦。
 4. 修改默认管理员用户名密码为ms365auto
-5. 自掏腰包给大家搞了国内（又拍云和蓝奏云）/国外（Google Drive/Mega）分流下载。
+5. 自掏腰包给大家搞了国内（蓝奏云）/国外（Google Drive/Mega）分流下载。
 
 具体部署教程请前往：
 
 ## 分流下载
-国内通道（蓝奏云）
-国内通道（又拍云）
-国外通道（Google Drive）
-国外通道（Mega）
+国内通道（蓝奏云）：https://sjfsbh.lanzoui.com/b01ceq54d 密码:17oz
+国外通道（Google Drive）：https://drive.google.com/drive/folders/1WzV8VqlnpuXH3CMbyCBL6l_w4mONR1hZ?usp=sharing
+国外通道（Mega）：https://mega.nz/folder/GtxzQArZ 密钥：n4tSm3TGGu62zZeD9GEiiQ
 
 ## 要饭
 一杯奶茶/doge
-
-
+![](https://a1-down.illyasviel.info/img/pay/zfb.jpg)
+![](https://a1-down.illyasviel.info/img/pay/qq.png)
